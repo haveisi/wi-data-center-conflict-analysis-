@@ -1,0 +1,51 @@
+company_name,project_stage,reports
+NULL,NULL,1
+"AEP Ohio","policy debate",1
+"Amazon; Google; Meta; Microsoft",expansion,1
+"Amazon; Google; Microsoft; Meta",operational,1
+"Amazon; Microsoft; Google","policy debate",1
+"Balloonist LLC / unnamed tech firm",proposal,1
+"Balloonist; QTS","policy debate",1
+"Bloom Energy / data center developers","industry trend",1
+"Cloverleaf Infrastructure",withdrawal,1
+"Construction sector",construction,1
+"County renewable-energy policy","policy debate",1
+Equinix,proposal,1
+Google,proposal,1
+"Google / Hatchworks LLC",construction,1
+"Google; Amazon; data center industry","policy debate",1
+"Hyperscalers; colocation operators",expansion,1
+"Meta; Microsoft; hyperscalers","policy debate",1
+"Meta; Microsoft; Viridian; QTS",multiple,2
+Microsoft,withdrawal,1
+Microsoft,litigation,1
+Microsoft,expansion,1
+Microsoft,construction,1
+"Microsoft (withdrawn)",withdrawal,1
+"Microsoft; hyperscalers","policy debate",1
+"Microsoft; Meta",construction,1
+"Microsoft; Meta; OpenAI; Oracle",multiple,1
+"Microsoft; Meta; QTS; Vantage","policy debate",1
+"Microsoft; Meta; Vantage",construction,1
+"Microsoft; Meta; Vantage; QTS","policy debate",1
+"Microsoft; Meta; We Energies; Alliant","policy debate",1
+"Microsoft; PSC","policy debate",1
+"Microsoft; Vantage","policy debate",1
+"Microsoft; Vantage",conflict,1
+"Microsoft; Vantage; Meta",multiple,1
+Multiple,"policy debate",10
+Multiple,conflict,1
+QTS,annexation,1
+QTS,proposal,1
+"QTS; Microsoft",proposal,1
+"Unknown / Project Nova",conflict,1
+Vantage,approval,1
+"Vantage / American Transmission Co.",conflict,1
+"Vantage / City of Port Washington",litigation,1
+"Vantage / Great Lakes Neighbors United",litigation,1
+"Vantage / OpenAI / Oracle",construction,1
+"Vantage; OpenAI; Oracle; ATC",conflict,3
+"Viridian Acquisitions",proposal,1
+"We Energies; Microsoft; Vantage","policy debate",1
+"Wisconsin Legislature","policy debate",3
+"Wisconsin Legislature; Microsoft","policy debate",1

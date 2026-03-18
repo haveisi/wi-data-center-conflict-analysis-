@@ -1,0 +1,18 @@
+project_stage,primary_conflict_frame,reports
+annexation,governance,1
+approval,"economic development",1
+conflict,"infrastructure conflict",2
+conflict,"land rights conflict",2
+construction,"economic development",3
+expansion,"energy demand",2
+"industry trend","energy infrastructure",1
+litigation,"governance dispute",2
+multiple,transparency,2
+operational,transparency,1
+"policy debate","energy demand",4
+"policy debate","energy pricing",4
+"policy debate","water use",4
+proposal,"land use conflict",3
+withdrawal,"community activism",1
+withdrawal,"community opposition",1
+withdrawal,"land use conflict",1

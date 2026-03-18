@@ -1,0 +1,58 @@
+company_name,primary_conflict_frame,reports
+NULL,NULL,1
+"AEP Ohio","energy pricing",1
+"Amazon; Google; Meta; Microsoft","energy demand",1
+"Amazon; Google; Microsoft; Meta",transparency,1
+"Amazon; Microsoft; Google","energy pricing",1
+"Balloonist LLC / unnamed tech firm","land use conflict",1
+"Balloonist; QTS",governance,1
+"Bloom Energy / data center developers","energy infrastructure",1
+"Cloverleaf Infrastructure","community opposition",1
+"Construction sector","economic development",1
+"County renewable-energy policy","energy policy",1
+Equinix,"water use",1
+Google,"land use conflict",1
+"Google / Hatchworks LLC","community opposition",1
+"Google; Amazon; data center industry","economic incentives",1
+"Hyperscalers; colocation operators","economic development",1
+"Meta; Microsoft; hyperscalers","water use",1
+"Meta; Microsoft; Viridian; QTS",transparency,2
+Microsoft,"economic development",1
+Microsoft,"land use conflict",1
+Microsoft,transparency,1
+Microsoft,"energy demand",1
+"Microsoft (withdrawn)","community activism",1
+"Microsoft; hyperscalers","climate impact",1
+"Microsoft; Meta","water use",1
+"Microsoft; Meta; OpenAI; Oracle","energy demand",1
+"Microsoft; Meta; QTS; Vantage","regulatory gap",1
+"Microsoft; Meta; Vantage","economic development",1
+"Microsoft; Meta; Vantage; QTS","environmental impact",1
+"Microsoft; Meta; We Energies; Alliant","economic tradeoffs",1
+"Microsoft; PSC","energy pricing",1
+"Microsoft; Vantage",transparency,1
+"Microsoft; Vantage","energy demand",1
+"Microsoft; Vantage; Meta","public explanation",1
+Multiple,"water use",4
+Multiple,"energy demand",3
+Multiple,"environmental conflict",1
+Multiple,governance,1
+Multiple,"economic opportunity",1
+Multiple,"community opposition",1
+QTS,governance,1
+QTS,"land use conflict",1
+"QTS; Microsoft","energy demand",1
+"Unknown / Project Nova","land use conflict",1
+Vantage,"economic development",1
+"Vantage / American Transmission Co.","infrastructure conflict",1
+"Vantage / City of Port Washington","governance dispute",1
+"Vantage / Great Lakes Neighbors United","governance dispute",1
+"Vantage / OpenAI / Oracle","local environmental impact",1
+"Vantage; OpenAI; Oracle; ATC","land rights conflict",2
+"Vantage; OpenAI; Oracle; ATC","infrastructure conflict",1
+"Viridian Acquisitions",governance,1
+"We Energies; Microsoft; Vantage","energy pricing",1
+"Wisconsin Legislature",regulation,1
+"Wisconsin Legislature","political conflict",1
+"Wisconsin Legislature",transparency,1
+"Wisconsin Legislature; Microsoft",regulation,1

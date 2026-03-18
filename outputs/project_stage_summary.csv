@@ -1,0 +1,59 @@
+company_name,project_stage,primary_conflict_frame,reports
+Multiple,"policy debate","energy demand",3
+Multiple,"policy debate","water use",3
+"Meta; Microsoft; Viridian; QTS",multiple,transparency,2
+"Vantage; OpenAI; Oracle; ATC",conflict,"land rights conflict",2
+"Amazon; Google; Microsoft; Meta",operational,transparency,1
+"Amazon; Google; Meta; Microsoft",expansion,"energy demand",1
+"Balloonist LLC / unnamed tech firm",proposal,"land use conflict",1
+"QTS; Microsoft",proposal,"energy demand",1
+"Microsoft; Meta; Vantage",construction,"economic development",1
+Google,proposal,"land use conflict",1
+"Viridian Acquisitions",proposal,governance,1
+"Vantage / American Transmission Co.",conflict,"infrastructure conflict",1
+Microsoft,construction,"economic development",1
+Multiple,conflict,"water use",1
+"Unknown / Project Nova",conflict,"land use conflict",1
+"County renewable-energy policy","policy debate","energy policy",1
+"Microsoft; Meta",construction,"water use",1
+"Microsoft; Meta; OpenAI; Oracle",multiple,"energy demand",1
+"We Energies; Microsoft; Vantage","policy debate","energy pricing",1
+Vantage,approval,"economic development",1
+"Hyperscalers; colocation operators",expansion,"economic development",1
+"Microsoft; Vantage",conflict,transparency,1
+"Microsoft; Vantage; Meta",multiple,"public explanation",1
+Multiple,"policy debate",governance,1
+"Microsoft; Meta; Vantage; QTS","policy debate","environmental impact",1
+"AEP Ohio","policy debate","energy pricing",1
+"Microsoft; hyperscalers","policy debate","climate impact",1
+"Google / Hatchworks LLC",construction,"community opposition",1
+"Microsoft; Meta; QTS; Vantage","policy debate","regulatory gap",1
+"Vantage; OpenAI; Oracle; ATC",conflict,"infrastructure conflict",1
+"Microsoft; Vantage","policy debate","energy demand",1
+Multiple,"policy debate","economic opportunity",1
+"Balloonist; QTS","policy debate",governance,1
+"Google; Amazon; data center industry","policy debate","economic incentives",1
+"Amazon; Microsoft; Google","policy debate","energy pricing",1
+"Microsoft; Meta; We Energies; Alliant","policy debate","economic tradeoffs",1
+Microsoft,withdrawal,"land use conflict",1
+Multiple,"policy debate","environmental conflict",1
+"Wisconsin Legislature","policy debate",regulation,1
+Microsoft,litigation,transparency,1
+"Cloverleaf Infrastructure",withdrawal,"community opposition",1
+"Microsoft (withdrawn)",withdrawal,"community activism",1
+QTS,annexation,governance,1
+Multiple,"policy debate","community opposition",1
+"Wisconsin Legislature","policy debate","political conflict",1
+"Bloom Energy / data center developers","industry trend","energy infrastructure",1
+"Construction sector",construction,"economic development",1
+Microsoft,expansion,"energy demand",1
+"Wisconsin Legislature; Microsoft","policy debate",regulation,1
+"Meta; Microsoft; hyperscalers","policy debate","water use",1
+"Microsoft; PSC","policy debate","energy pricing",1
+"Vantage / OpenAI / Oracle",construction,"local environmental impact",1
+"Wisconsin Legislature","policy debate",transparency,1
+Equinix,proposal,"water use",1
+"Vantage / City of Port Washington",litigation,"governance dispute",1
+"Vantage / Great Lakes Neighbors United",litigation,"governance dispute",1
+QTS,proposal,"land use conflict",1
+NULL,NULL,NULL,1
