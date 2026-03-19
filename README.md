@@ -24,6 +24,29 @@ Tools and Technologies
 4. GitHub— version control and project documentation
 ........................................................................................................................................................................................................................
 
+Project Structure
+wi-data-center-conflicts/
+│
+├── python/
+│   ├── import_reports_data.py
+│   ├── analysis_reports.py
+│   ├── export_results.py
+│
+├── data/
+│   └── coded_cases_clean.csv
+│
+├── outputs/
+│   ├── company_report_counts.csv
+│   ├── project_stage_summary.csv
+│   ├── primary_conflict_frames.csv
+│
+├── sql/
+│   └── create_tables.sql
+│
+├── README.md
+
+........................................................................................................................................................................................................................
+
 Dataset
 The dataset consists of 64 coded media reports related to data center development. Sources include:
 1. Regional and national media outlets
@@ -87,6 +110,21 @@ ORDER BY reports DESC;
 
 .........................................................................................................................................................................................................................
 
+Python Workflow
+
+Python is used to:
+1. Import the coded dataset into MySQL
+2. Clean and align column names with SQL schema
+3. Run analytical queries
+4. Export structured outputs for reporting
+
+Example output
+Connected to MySQL successfully
+Import complete.
+Rows imported: 64
+
+.........................................................................................................................................................................................................................
+
 Outputs
 The project generates structured outputs to support analysis and visualization, including:
 1. Company frequency tables
@@ -101,4 +139,5 @@ Planned extensions of this project include:
 1. GIS-based mapping of conflict hotspots
 2. Network analysis of actors and conflict themes
 3. Integration with ESG frameworks for risk assessment and policy evaluation
+4. Integration with Power BI dashboards
 
