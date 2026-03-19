@@ -42,6 +42,11 @@ wi-data-center-conflicts/
 │
 ├── sql/
 │   └── create_tables.sql
+├── Images/
+│   ├── Data Center Map-WI.PDF
+│   ├── project_stage_distribution.png
+│   ├── conflict_frame_distribution.png
+│   ├── company_conflict_frequency.png
 │
 ├── README.md
 
