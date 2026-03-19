@@ -1,4 +1,4 @@
-# WI-data-center-conflict-analysis-
+# WI-data-center-conflict-analysis
 SQL + Python analysis of community conflicts around data center development in Wisconsin, focusing on energy, water, governance, and policy dynamics.
 Here is a more **professional, polished, and portfolio-ready version** of your project description:
 
