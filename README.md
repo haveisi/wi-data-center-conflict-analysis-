@@ -3,6 +3,7 @@
 Data Center Conflict Analysis — Wisconsin
 
 Overview
+
 This project examines community responses and policy conflicts associated with data center development in Wisconsin using a combination of SQL and Python-based data analysis. The study systematically analyzes media coverage to identify key patterns in infrastructure-related conflict, with particular attention to environmental, governance, and socio-economic dimensions.
 
 ........................................................................................................................................................................................................................
