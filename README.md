@@ -27,29 +27,39 @@ Tools and Technologies
 Project Structure
 wi-data-center-conflicts/
 │
-├── python/
-│   ├── import_reports_data.py
-│   ├── analysis_reports.py
-│   ├── export_results.py
+├── README.md
+├── requirements.txt
 │
 ├── data/
-│   └── coded_cases_clean.csv
+│   ├── raw/
+│   │   └── source_reports_list.csv
+│   │
+│   └── processed/
+│       └── coded_cases_clean.csv
+│
+├── python/
+│   ├── 01_import_data.py
+│   ├── 02_clean_validate_data.py
+│   ├── 03_analyze_conflicts.py
+│   └── 04_export_results.py
+│
+├── sql/
+│   └── create_tables.sql
 │
 ├── outputs/
 │   ├── company_report_counts.csv
 │   ├── project_stage_summary.csv
 │   ├── primary_conflict_frames.csv
+│   └── county_conflict_summary.csv
 │
-├── sql/
-│   └── create_tables.sql
-├── Images/
-│   ├── Data Center Map-WI.PDF
+├── images/
+│   ├── data_center_map_wi.pdf
 │   ├── project_stage_distribution.png
 │   ├── conflict_frame_distribution.png
-│   ├── company_conflict_frequency.png
+│   └── company_conflict_frequency.png
 │
-├── README.md
-
+└── docs/
+    └── methodology_notes.md
 ........................................................................................................................................................................................................................
 
 Dataset
