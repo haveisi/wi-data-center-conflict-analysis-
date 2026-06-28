@@ -24,7 +24,6 @@ Tools and Technologies
 4. GitHub— version control and project documentation
 ................................................
 
-Project Structure
 ## Project Structure
 
 ```text
@@ -63,6 +62,7 @@ wi-data-center-conflicts/
 │
 └── docs/
     └── methodology_notes.md
+```
 ..............................................................................
 
 Dataset
