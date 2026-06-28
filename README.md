@@ -22,9 +22,12 @@ Tools and Technologies
 2. Python (pandas, SQLAlchemy)** — data processing and integration
 3. Excel / CSV — data outputs and intermediate analysis
 4. GitHub— version control and project documentation
-........................................................................................................................................................................................................................
+................................................
 
 Project Structure
+## Project Structure
+
+```text
 wi-data-center-conflicts/
 │
 ├── README.md
